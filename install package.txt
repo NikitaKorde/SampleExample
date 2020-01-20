@@ -1,0 +1,5 @@
+npm install express
+            mysql
+	    express-validator
+	    ejs
+	    init
